@@ -19,7 +19,7 @@
 
 
   <link crossorigin="anonymous" media="all" integrity="sha512-pWLt6abkYhNeAHaDrPVG0yXCtIGRuCkwSUqQpsyN6smAIpIt+Iuq2IZKmoH9l3Cy/9ZnjvVrFZnvFFjGiqE3EA==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-a3b8a10d4a9e37a78f033ef4a4f525f5.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-tQK8HQpSIVcdIlOEZb+jErqgt57jRpc7QDc3n9bxEl6eGuEyhgZUect76rw/eYKJ84l20BafsZ0E95VdzESSXQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-553f76c93571e7983345d02fe7d468e2.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-AsjwkjKZFIoZnlTa1P9LenvMRYthqPk4IJQp6dN+aNrffN5E+wS1ZcXrnkRtBOuAai8DEizJdjA1ZXPOUXExtg==" rel="stylesheet" href="https://github.githubassets.com/assets/github-c072f65f130f85447926f2a68208a555.css" />
   
   
   <link crossorigin="anonymous" media="all" integrity="sha512-N5cRdPCXHO5wgAMNwip0pdEIY0qHrTsCnrGLSLxLiQ8TVr0Mi2xZjL6/CzD3LakUjPrFHc06OU5i0jEQ8hCwJA==" rel="stylesheet" href="https://github.githubassets.com/assets/site-bdd55e67f0ed3e8974c7c941589e8c6a.css" />
@@ -41,7 +41,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="F0EC:7B15:83DA39:DCB4A6:5C5C4C02" data-pjax-transient>
+  <meta name="request-id" content="D853:34F4:79E935:D43161:5C5C92B4" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="F0EC:7B15:83DA39:DCB4A6:5C5C4C02" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D853:34F4:79E935:D43161:5C5C92B4" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,13 +70,13 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="M2VkODc4YzkxYzVmYzJhMThiMGY5YTIxZTI2NzhiZDVkOGE2NTBlZTZlMDQzNDcyNTg3MTQ3YjE0ODE3NmQxZXx7InJlbW90ZV9hZGRyZXNzIjoiNzEuMTkyLjI0MC4xMDciLCJyZXF1ZXN0X2lkIjoiRjBFQzo3QjE1OjgzREEzOTpEQ0I0QTY6NUM1QzRDMDIiLCJ0aW1lc3RhbXAiOjE1NDk1NTI2NDIsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="OGYwZTk0MDc5NzZlOWEwYjQzNjRhMjNmOThlNjcyZWVhODk0NmQ2ZGZmNGJhZTlkN2M1OGI5ZWNmMTFkMDE5ZXx7InJlbW90ZV9hZGRyZXNzIjoiMTU1LjMzLjEzNC4yMCIsInJlcXVlc3RfaWQiOiJEODUzOjM0RjQ6NzlFOTM1OkQ0MzE2MTo1QzVDOTJCNCIsInRpbWVzdGFtcCI6MTU0OTU3MDc0MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR">
 
-  <meta name="html-safe-nonce" content="00a374b1b0be177b14cb0a9eba8a9267afcceaf0">
+  <meta name="html-safe-nonce" content="70dc62bd32b460764b539baf341ce6a805faa266">
 
-  <meta http-equiv="x-pjax-version" content="ce6821c94940e554200601ab3bf5b468">
+  <meta http-equiv="x-pjax-version" content="b57e3ff8274e65c4b4b97181b0b5fb24">
   
 
       <link href="https://github.com/ageron/handson-ml/commits/master.atom" rel="alternate" title="Recent Commits to handson-ml:master" type="application/atom+xml">
@@ -254,7 +254,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=gg+eZL+0c8UIOxk1ctGzb+V+bYcqE+2+zYUbtR4zTteicyRAfNn1pIuVNgsRQrNZEiQPvkQoDnx1CBnJ36YFEg=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=edecIjpm/ComfONuXahZgbAlrIJRKD+wTrAF/eN64t8/kQkfD1hAW88eko7YK4JHnyjzKYzNjZNML2Ku/3m6pA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -436,8 +436,8 @@
     </a>
 
     <a class="social-count js-social-count" href="/ageron/handson-ml/stargazers"
-      aria-label="12129 users starred this repository">
-      12,129
+      aria-label="12135 users starred this repository">
+      12,135
     </a>
 
   </li>
@@ -451,8 +451,8 @@
       </a>
 
     <a href="/ageron/handson-ml/network/members" class="social-count"
-       aria-label="6434 users forked this repository">
-      6,434
+       aria-label="6439 users forked this repository">
+      6,439
     </a>
   </li>
 </ul>
@@ -484,7 +484,7 @@
       <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /ageron/handson-ml/issues" href="/ageron/handson-ml/issues">
         <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
-        <span class="Counter">36</span>
+        <span class="Counter">37</span>
         <meta itemprop="position" content="2">
 </a>    </span>
 
@@ -529,7 +529,7 @@
         <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ydy6o5BjJx+amCwJCR5aSa3ygyNFl9BKss3YQlzGP1sSr5CX7xkP8H7R8LcHZC4LM7MSi2mEEBC8/965pGOSWw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="n9wrAjC9eIoKWskB64/Sfpcg8uqRRIuxNPju91C6HUvtQQCbt2/yB3QWgpTqOY6m4qB4VThzae8BcMLYyibIqg==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
@@ -641,7 +641,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ageron/handson-ml/delete/master/datasets/housing/housing.tgz" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/VZVbJIl8IjgGtRltAAM0dpRVQOy8X1ucFWrfRd265YCxDQl74+ri3UorygtcsmdzVhduo3nVIXl7uAHV2gRVg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ageron/handson-ml/delete/master/datasets/housing/housing.tgz" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="8IJmXTuiJ9v15smU/yLt2EgjT0bks4nSS3tyjIf8c1Awr+NpILqUvDyxxuatqgrvnJJUHweOWCCsRX0LsWg0xQ==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="You must be signed in to make or propose changes" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -682,6 +682,7 @@
 
     </div>
   </div>
+  
 
   </div>
 
@@ -689,7 +690,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.20236s from unicorn-657b6f4478-n8zm2">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.20726s from unicorn-75dd9cc7b6-q2sh5">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
@@ -729,7 +730,7 @@
     <script crossorigin="anonymous" integrity="sha512-Mp0nAOFvmE8PVQP49TPVMbQBLb+lpf3gu9GF1CPqybGGzl/8KEKDTKzuJpxxd5xF8HUi85xKPkssLtVVdLKtlw==" type="application/javascript" src="https://github.githubassets.com/assets/compat-6e5ed2648dae3be3f9358af5732a780f.js"></script>
     <script crossorigin="anonymous" integrity="sha512-ZwVwxq7XuYTJgo+RvKEmeGyrm1OTN2Du77YWAfdEiJo9lZbmFO252M4KaMRyDZ3O0bw1OYpF/rJCyQ3g/aa0yA==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-5e5334deb0beba2b22d055907f8e10a4.js"></script>
     
-    <script crossorigin="anonymous" async="async" integrity="sha512-A6+NqSWBuQ9Jp7Oojr3C0seZRQpqLiQQUFlac1EnqYsOmOrHDp8Jc5lwAvM3SyPuJkFsh5SfqTyD2LbjdHfpeQ==" type="application/javascript" src="https://github.githubassets.com/assets/github-09e504b3019115da3820e83999c087d2.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-r845T8rSWmeWSD/heOsw3tfHmhwDzHmhw0xXhXHi+Ujm1dE79YSX0PmyZlnGiHor3J38uV25lol41X1SvZomcg==" type="application/javascript" src="https://github.githubassets.com/assets/github-24577bf66dee41b977c88177ce9a8502.js"></script>
     
     
     
